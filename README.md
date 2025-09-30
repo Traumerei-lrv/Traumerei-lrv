@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently  learning data science , web development, and IoT.
+Hi!, I'm Lee Ruben Valero an aspiring tech student. I'm currently learning data science , web development, and IoT.
 
 
 # 💻 Tech Stack:
